@@ -1,5 +1,5 @@
 require "passgenerator/version"
+require "passgenerator/cli"
 
 module Passgenerator
-  # Your code goes here...
 end
