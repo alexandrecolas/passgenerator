@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Passgenerator::VERSION
   spec.authors       = ["Alexandre Colas"]
   spec.email         = ["colasalexandre@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Generate Password easily."
+  spec.description   = "This project shows how to start using Thor in a new gem."
   spec.homepage      = ""
   spec.license       = "MIT"
 
