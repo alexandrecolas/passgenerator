@@ -5,7 +5,7 @@ module Passgenerator
 
     desc "version", "print version number"
     def version
-      puts "Passgenerator #{Passgenerator::VERSION}"
+      puts "Passgenerator 0.1"
     end
 
     desc "generate", "generate a new password"
