@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["colasalexandre@gmail.com"]
   spec.summary       = "Generate Password easily."
   spec.description   = "This project shows how to start using Thor in a new gem."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/alexandrecolas/passgenerator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
